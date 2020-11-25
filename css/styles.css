@@ -1,0 +1,115 @@
+/* Elements */
+body {
+  background-position: #e8e8e8;
+  overflow-x: hidden;
+}
+
+/* Navigation Bar */
+.top-section {
+  padding: auto 10%;
+}
+
+.navbrand {
+  font-family: 'Anton', sans-serif;
+  font-weight: 500;
+  line-height: 3rem;
+  color: white;
+}
+
+.navbrand:hover, .nav-link:hover {
+  color: #ea2c62;
+}
+
+.navbar-item {
+  font-family: 'Asap', sans-serif;
+  /* font-size: 1.25rem; */
+  padding: 0 2px;
+  line-height: 2rem;
+  color: white;
+}
+
+/* Carousel Section */
+.carousel-set {
+  padding: 2% 5%;
+  background-color: #e8e8e8;
+}
+
+/* Product Section */
+.container-fluid {
+  background-color: #e8e8e8;
+}
+
+.MMB {
+  background-color: #fff;
+  font-family: 'Asap', sans-serif;
+  text-align: center;
+  font-size: 2rem;
+  font-weight: bolder;
+  line-height: 3rem;
+}
+
+.product-image {
+  height: 300px;
+  width: 360px;
+}
+
+.row-image{
+  background-color: #ea2c62;
+  padding:2% 5%;
+}
+
+.col-image{
+  padding:20px;
+}
+
+/* FOOTER */
+.social-media-icon{
+  padding: 1% 10%;
+  text-align: center;
+  background-color: #e8e8e8;
+}
+
+.fb{
+  color: blue;
+}
+
+.insta{
+  color: #cc0e74;
+}
+
+.twit{
+  color: #00acee;
+}
+
+.yt{
+  color: red;
+}
+
+.fb:hover{
+  background-color: blue;
+  color:#fff;
+}
+
+.insta:hover{
+  background-color: #cc0e74;
+  color:#fff;
+}
+
+.twit:hover{
+  background-color: #00acee;
+  color:#fff;
+}
+
+.yt:hover{
+  background-color: red;
+  color:#fff;
+}
+
+.trademark{
+
+  font-family: 'Asap', sans-serif;
+  color: #f05454;
+  margin: 1rem auto 0.5rem;
+  text-align: center;
+  width: 100%;
+}
